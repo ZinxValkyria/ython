@@ -1,2 +1,2 @@
-# ython
+# python
 Simple python scripts
